@@ -1,0 +1,9 @@
+{
+  "name": "red-edits",
+  "version": "1.0.0",
+  "description": "Claude가 작성·수정한 부분을 빨간 글자로 표시하는 스킬",
+  "author": { "name": "dudu1258" },
+  "repository": "https://github.com/dudu1258/red-edits",
+  "license": "MIT",
+  "skills": ["./skills/red-edits"]
+}

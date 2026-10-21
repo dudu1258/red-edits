@@ -1,0 +1,12 @@
+{
+  "name": "dudu1258-skills",
+  "owner": { "name": "dudu1258" },
+  "plugins": [
+    {
+      "name": "red-edits",
+      "source": "./",
+      "description": "Claude가 작성·수정한 부분을 빨간 글자로 표시하는 스킬",
+      "version": "1.0.0"
+    }
+  ]
+}
