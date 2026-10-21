@@ -1,6 +1,7 @@
 {
   "name": "dudu1258-skills",
   "owner": { "name": "dudu1258" },
+  "description": "dudu1258의 Claude 스킬 모음",
   "plugins": [
     {
       "name": "red-edits",
